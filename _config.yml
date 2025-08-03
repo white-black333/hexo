@@ -11,9 +11,9 @@ author: John Doe
 language: en
 timezone: ''
 
-# URL
+# URL  https://github.com/white-black333/hexo
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://white-black333.github.io/hexo
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
